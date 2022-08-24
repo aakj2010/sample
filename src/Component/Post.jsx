@@ -28,7 +28,6 @@ function Post() {
 
     return (
         <>
-            <h1>{params.id}</h1>
             <header class="masthead" style={{backgroundImage: "assets/img/post-bg.jpg"}} >
                 <div class="container position-relative px-4 px-lg-5">
                     <div class="row gx-4 gx-lg-5 justify-content-center">
